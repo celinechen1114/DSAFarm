@@ -1,8 +1,72 @@
-*{
-  font-family:Lexend Tera;
+* {
+  font-family: Rockwell, Helvetica, sans-serifc;
+}
+body {
+background: #f3e9fd;
+margin-left: 200px;
+padding: 0px 10px;
+}
+.about {
+  margin-top: 60px; /* Adds spacing above the container */
+}
+.profilepicture {
+/*         border-radius: 50%; */
+  height: 200px;
+  width: 1000px;
+/*         border: 1px solid white; */
+  display: block;
+  margin: 0 auto;
+}
+.name {
+  text-align: center;
+  font-size: 70px;
+}
+
+.description {
+text-align: center;
 }
 
 body {
-  
-	background: #F3E9FD;
+background: #f3e9fd;
+}
+
+.sidebar {
+height: 100%;
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: #000;
+padding-top: 20px;
+}
+
+.sidebar a {
+padding: 6px 8px 6px 16px;
+text-decoration: none;
+font-size: 20px;
+color: #818181;
+display: block;
+}
+
+.sidebar a:hover {
+color: #fff;
+}
+
+.feed_button {
+display: block;
+margin: 20px auto;
+border: none; /* Removes the default button border */
+background: #304a58;
+color: white;
+padding: 5px 10px; /* Adds spacing around the text (vertical, horizontal) */
+border-radius: 20px;
+cursor: pointer; /* When the user hovers over the button, change the mouse shape */
+transition: 0.3s;
+}
+
+.feed_button:hover {
+background: transparent;
+color: black;
+outline: 2px solid #304a58
 }
