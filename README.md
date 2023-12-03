@@ -3,7 +3,7 @@ The Data Structures & Algorithms (DSA) farm is a place to learn about computer s
 
 Feel free to check this out! This is the first-ever hackathon project I have done~ I greatly appreciate the fantastic team I had working alongside me to make this project a winning success :)
 
-Video demo: (https://devpost.com/software/dsa-project)](https://devpost.com/software/dsa-project)
+Video demo: [(https://devpost.com/software/dsa-project)](https://devpost.com/software/dsa-project)](https://devpost.com/software/dsa-project)
 
 
 ## What it does
