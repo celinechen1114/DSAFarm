@@ -1,6 +1,8 @@
 # DSAFarm - HackCamp 2022 WINNER Project
 The Data Structures & Algorithms (DSA) farm is a place to learn about computer science in a beginner-friendly and fun way!
-Demo Video: [Feel free to give it a look :) https://www.youtube.com/watch?v=eUIhrd2SB4U&ab_channel=celine ](https://devpost.com/software/dsa-project)
+
+Feel free to check this out! This is the first-ever hackathon project I have done~ I greatly appreciate the fantastic team I had working alongside me to make this project a winning success :)
+[https://www.youtube.com/watch?v=eUIhrd2SB4U&ab_channel=celine ](https://devpost.com/software/dsa-project)](https://devpost.com/software/dsa-project)
 
 
 ## What it does
